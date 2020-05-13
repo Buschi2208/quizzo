@@ -32,7 +32,7 @@ ALLOWED_HOSTS = ['192.168.1.155']
 
 INSTALLED_APPS = [
     'accounts.apps.AccountsConfig',
-    'quizzes.apps.QuizzesConfig',
+    'quizzos.apps.QuizzesConfig',
     'django.contrib.admin',
     'django.contrib.auth',
     'django.contrib.contenttypes',
